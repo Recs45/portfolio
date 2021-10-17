@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Montserrat+Alternates:wght@600&family=Roboto:ital,wght@1,700&display=swap');
+
+*{
+
+	font-family: 'Roboto', sans-serif;
+
+}
+
+h2{
+
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+
+h1{
+
+	font-family: 'Bad Script', cursive;
+	font-size: 50px;
+}
